@@ -1,4 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## About
+
+A basic linkedin clone built with the purpose to study and integrate it with firebase.
+
+## What I learned
+
+<ul>
+  <li>Firebase auth and database integration</li>
+  <li>New CSS properties and best practices</li>
+  <li>Material UI integration </li>
+</ul>
+
+## Preview
+
+<p  align="center">
+  <img  alt="Home"  src=".github/Screenshot from 2020-12-31 10-18-07.png"  width="90%">
+</p>
 
 ## Available Scripts
 
